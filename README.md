@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 | Lesson Number | Topic | Lesson Grouping | Learning Objectives | Linked Lesson | Author |
 | :-----------: | :------------------------------: | :--------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------: | :----: |
-| 01 | Welcome & Introduction | [Introduction](1-Introduction/README.md) | Overview of the aiDAPTIV+ platform, course structure, and how to get started. | [lesson](1-Introduction/01-welcome-intro/README.md) | Aaron Pham |
+| 01 | Welcome & Introduction | [Introduction](1-Introduction/README.md) | Overview of the aiDAPTIV+ platform, course structure, and how to get started. | [lesson](1-Introduction/01-welcome/README.md) | Aaron Pham |
 | 02 | Accessing the AI Training PC | [Introduction](1-Introduction/README.md) | Learn how to request, connect to, and work with the remote AITPC for course exercises. | [lesson](1-Introduction/02-remote-aitpc/README.md) | Aaron Pham |
 | 03 | Fine-Tuning via Pro Suite GUI | [GUI Based](2-GUI-Based/README.md) | Use the aiDAPTIV+ Pro Suite GUI to fine-tune a custom LLM using the Phison Employee Handbook dataset. | [lesson](2-GUI-Based/03-pro-suite-handbook/README.md) | Aaron Pham |
 | 04 | CLI Fine-Tuning: Speaking Style Model | [CLI Based](3-CLI-Based/README.md) | Fine-tune an LLM to mimic a public figure’s speaking style using aiDAPTIV+ CLI tools. | [lesson](3-CLI-Based/04-speaking-style/README.md) | Aaron Pham |
