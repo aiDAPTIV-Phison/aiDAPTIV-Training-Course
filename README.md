@@ -8,6 +8,8 @@
 
 # aiDAPTIV+ Training Course – Hands-On LLM Fine-Tuning
 
+</div>
+
 Learn how to fine-tune large language models (LLMs) locally using **aiDAPTIV+** with both the **Pro Suite Graphical User Interface** and the **Command Line Interface**. This repository contains all lesson materials, datasets, code examples, and project files to learn aiDAPTIV+.
 
 ---
