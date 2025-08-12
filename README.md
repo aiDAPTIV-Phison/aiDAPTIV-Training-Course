@@ -46,25 +46,18 @@ README.md
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Python 3.10+
-- PyTorch installed (CUDA-enabled recommended)
-- aiDAPTIV+ Pro Suite or CLI installed (instructions in course)
-- Access to an aiDAPTIVCache SSD or AITPC (optional but recommended)
+- [aiDAPTIV+ Installed](https://github.com/atp224/aiDAPTIVTestPage/tree/main/Page_Sections/Installation)
+- Access to an AI Training PC (AITPC) — either your own system with aiDAPTIV+ installed **or** remote access to a provided AITPC
 
 ### Setup
 ```bash
 git clone https://github.com/atp224/aiDAPTIV-Training-Course
 cd aiDAPTIV-Training-Course
-pip install -r requirements.txt
 ```
 
 ---
 
 ## Lessons
-
-|![ Sketchnote placeholder ](./sketchnotes/00-Roadmap.png)|
-|:---:|
-| aiDAPTIV+ Training Course: Roadmap |
 
 | Lesson Number | Topic | Lesson Grouping | Learning Objectives | Linked Lesson | Author |
 | :-----------: | :------------------------------: | :--------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------: | :----: |
