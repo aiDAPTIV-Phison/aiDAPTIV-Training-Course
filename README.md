@@ -79,7 +79,3 @@ pip install -r requirements.txt
 ## 🤝 Contributing
 Feedback and improvements are welcome. Please open an issue or submit a pull request if you find bugs or have suggestions.
 
----
-
-## 📜 License
-This course material is licensed under the MIT License. You are free to use, modify, and share, but attribution is appreciated.
