@@ -67,7 +67,7 @@ pip install -r requirements.txt
 ---
 
 ## 🤝 Contributing
-This repository is primarily for learners of the Udemy course, but feedback and improvements are welcome. Please open an issue or submit a pull request if you find bugs or have suggestions.
+Feedback and improvements are welcome. Please open an issue or submit a pull request if you find bugs or have suggestions.
 
 ---
 
