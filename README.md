@@ -57,6 +57,7 @@ aiDAPTIV-Training-Course
 ├── LICENSE
 └── README.md
 
+```
 ---
 
 ## 🚀 Getting Started
