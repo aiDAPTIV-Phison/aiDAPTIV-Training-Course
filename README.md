@@ -26,20 +26,36 @@ Whether you’re a developer, researcher, or student, you’ll gain practical sk
 ---
 
 ## 🗂 Repository Structure
-```
-/lessons
-    /pro-suite-gui
-    /cli
-/projects
-    /handbook-chatbot
-    /speaking-style-model
-/data
-    /sample-datasets
-/scripts
-    fine_tune.py
-    inference.py
-README.md
-```
+
+```text
+aiDAPTIV-Training-Course
+├── 1-Introduction
+│   ├── 01-welcome
+│   │   └── README.md
+│   ├── 02-accessing-the-AI-Training-PC
+│   │   └── README.md
+│   └── README.md
+│
+├── 2-GUI-Based
+│   ├── 03-fine-tune
+│   │   └── README.md
+│   ├── 06-test
+│   │   └── README.md
+│   └── ReadME.md
+│
+├── 3-CLI-Based
+│   ├── 04-speaking-style-model
+│   │   └── README.md
+│   ├── 05-vision-function-calling-model
+│   │   └── README.md
+│   └── README.md
+│
+├── assets
+│   ├── dark_logo.png
+│   └── light_logo.png
+│
+├── LICENSE
+└── README.md
 
 ---
 
