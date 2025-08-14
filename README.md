@@ -29,7 +29,7 @@ Whether you’re a developer, researcher, or student, you’ll gain practical sk
 
 ### Prerequisites
 - [aiDAPTIV+ Installed](https://github.com/atp224/aiDAPTIVTestPage/tree/main/Page_Sections/Installation)
-- Access to an AI Training PC (AITPC) — either your own system with aiDAPTIV+ installed **or** remote access to a provided AITPC
+- [Access to an AI Training PC (AITPC)](https://docs.google.com/forms/d/e/1FAIpQLSd1KLGisv-xU9KIc8ZPQBIBEfbS1VCW16qxCCXe-5_ZGfcgxg/viewform) — either your own system with aiDAPTIV+ installed **or** remote access to a provided AITPC
 
 ### Setup
 ```bash
