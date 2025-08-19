@@ -28,4 +28,4 @@ These lessons build progressively from speaking style models, to multimodal func
 
 ### Credits
 
-These lessons were written with ❤️ by the aiDAPTIV+ team.  
+These lessons were written by the aiDAPTIV+ team.  
