@@ -1,7 +1,7 @@
 # LLM as a Judge
 
 **Why this matters:**  
-Traditional evaluation methods (like BLEU or string matching) can’t tell if an answer is *actually* correct — they only check surface overlap. This is a big problem when detecting **hallucinations**, since a response can look different but still be valid, or look similar but be misleading.  
+Traditional evaluation methods (like [BLEU](https://huggingface.co/spaces/evaluate-metric/bleu) or [string matching](https://huggingface.co/spaces/evaluate-metric/exact_match)) can’t tell if an answer is *actually* correct — they only check surface overlap. This is a big problem when detecting **hallucinations**, since a response can look different but still be valid, or look similar but be misleading.  
 Using **LLMs as judges** solves this by applying reasoning and context awareness to evaluation, leading to more **accurate, meaningful, and reliable** assessments of model outputs.
 
 In this lesson, you’ll learn how to use **LLMs as evaluators** to detect hallucinations in model outputs. Instead of relying on string similarity metrics, LLM-as-a-Judge leverages reasoning to score responses more accurately.  
