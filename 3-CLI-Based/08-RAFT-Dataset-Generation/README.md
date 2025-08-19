@@ -2,8 +2,13 @@
 
 In this lesson, you will learn how to generate datasets for **Retrieval-Augmented Fine-Tuning (RAFT)**. RAFT extends Retrieval-Augmented Generation (RAG) by not only pulling relevant external knowledge into model responses, but also **fine-tuning models on retrieval-enriched data** to improve accuracy, factual grounding, and domain specialization.  
 
-[![RAFT Dataset Generation Video](https://github.com/atp224/aiDAPTIV-Training-Course/blob/main/assets/raft_dataset_generation.png)](https://youtu.be/your-video-link-here)  
-▶️ *Click the image above to watch the video on YouTube.*
+<p align="center">
+  <a href="https://youtu.be/YOUR_VIDEO_LINK" target="_blank">
+    <img src="https://github.com/atp224/aiDAPTIV-Training-Course/blob/main/assets/raft_dataset_generation.png" alt="RAFT Dataset Generation" width="600"/>
+  </a>  
+  <br>
+  ▶️ *Click the image above to watch the video on YouTube.*
+</p>
 
 ---
 
