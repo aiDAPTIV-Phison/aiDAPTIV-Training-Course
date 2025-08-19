@@ -1,5 +1,9 @@
 # Vision Function Calling
 
+**Why this matters:**  
+Traditional Vision-Language Models (VLMs) can describe what they see, but they usually stop at captions or Q&A. Real-world applications often need **action**, not just description — like extracting numbers from receipts, scheduling from a whiteboard snapshot, or triggering workflows from diagrams.  
+By teaching VLMs to **call functions** based on visual input, we bridge perception with automation, enabling **multimodal agents** that can reason, act, and integrate directly into business or research pipelines.
+
 In this lesson, you will learn how modern **Vision-Language Models (VLMs)** can not only describe images but also **call functions** based on what they see. By combining **OCR-like perception** with structured reasoning and APIs, we can unlock powerful multimodal workflows.
 
 <p align="center">
