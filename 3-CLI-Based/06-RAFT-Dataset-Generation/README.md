@@ -8,8 +8,8 @@ In this lesson, you will learn how to generate datasets for **Retrieval-Augmente
 
 
 <p align="center">
-  <a href="https://youtu.be/YOUR_VIDEO_LINK" target="_blank">
-    <img src="https://github.com/atp224/aiDAPTIV-Training-Course/blob/main/assets/raft_dataset_generation.png" alt="RAFT Dataset Generation" width="600"/>
+  <a href="https://youtu.be/-H36KQR_9KM" target="_blank">
+    <img src="https://github.com/atp224/aiDAPTIV-Training-Course/blob/main/assets/RAFT_Dataset_Generation.png" alt="RAFT Dataset Generation" width="600"/>
   </a>  
   <br>
   ▶️ *Click the image above to watch the video on YouTube.*
