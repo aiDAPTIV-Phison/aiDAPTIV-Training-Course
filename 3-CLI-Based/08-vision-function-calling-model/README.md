@@ -21,7 +21,7 @@ In this lesson, you will learn how modern **Vision-Language Models (VLMs)** can 
 Traditional **OCR (Optical Character Recognition)** tools focus only on extracting text from an image.  
 Vision-Language Models go further:  
 - Understand **images holistically** (objects, layout, context).  
-- **Reason** about what they see (e.g., “the package is marked as delayed”).  
+- **Reason** about what they see (e.g., recognizing that if a package label shows a delivery date earlier than today, the package must be delayed).  
 - Combine perception with **natural language capabilities**.  
 
 Popular VLMs include **Qwen-VL**, **LLaVA**, and **GPT-4o**.
