@@ -9,20 +9,20 @@ These lessons build progressively from speaking style models, to multimodal func
 
 ### Topics
 
-1. [Speaking Style Model](04-speaking-style-model/README.md)  
-   Learn how to adapt an LLM’s output style for different communication needs.
+1. [Instruction Fine-Tuning](04-instruction-fine-tuning/README.md)  
+   Learn the foundations of fine-tuning models on instruction–response datasets.  
 
-2. [Vision Function Calling](05-vision-function-calling-model/README.md)  
-   Explore how Vision-Language Models (VLMs) can analyze images and call structured functions.
+2. [Speaking Style Model](05-speaking-style-model/README.md)  
+   Adapt an LLM’s output style for different tones, audiences, and communication needs.  
 
-3. [Instruction Fine-Tuning](06-instruction-fine-tuning/README.md)  
-   Understand the basics of fine-tuning models on instruction–response datasets.
+3. [RAFT Dataset Generation](06-RAFT-Dataset-Generation/README.md)  
+   Generate retrieval-augmented datasets to improve factual grounding and domain specialization.  
 
 4. [LLM as a Judge](07-LLM-as-a-judge/README.md)  
-   Use LLMs to evaluate outputs from other models with grading rubrics.
+   Discover how LLMs can evaluate and grade outputs from other models.  
 
-5. [RAFT Dataset Generation](08-RAFT-Dataset-Generation/README.md)  
-   Learn how to generate datasets for Retrieval-Augmented Fine-Tuning (RAFT).  
+5. [Vision Function Calling](08-vision-function-calling-model/README.md)  
+   Explore how Vision-Language Models (VLMs) can analyze images and trigger structured functions.  
 
 ---
 

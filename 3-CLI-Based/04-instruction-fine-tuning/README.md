@@ -3,7 +3,7 @@
 **Why this matters:**  
 Pre-trained LLMs are powerful, but they often struggle to follow instructions reliably. Instruction fine-tuning bridges that gap by teaching models to respond directly to human prompts. This makes them more **useful, accurate, and aligned** with real-world needs like customer support, chatbots, and task automation.  
 
-In this lesson you will learn how to prepare and validate datasets for instruction fine-tuning — the key step that transforms a general-purpose LLM into a **chat model that listens and responds the way you want.**  
+In this lesson you will learn how to prepare and validate datasets for instruction fine-tuning, the key step that transforms a general-purpose LLM into a **chat model that listens and responds the way you want.**  
 
 
 <p align="center">

@@ -2,7 +2,7 @@
 
 **Why this matters:**  
 Large Language Models (LLMs) are powerful, but they often struggle with **domain-specific accuracy** and can generate **hallucinations** when asked about specialized topics. Traditional fine-tuning helps, but it doesn’t explicitly teach the model how to use external knowledge.  
-**Retrieval-Augmented Fine-Tuning (RAFT)** solves this by combining fine-tuning with retrieval — letting the model not only access the right context but also *learn from retrieval-enriched data*. This results in models that are more **fact-grounded, accurate, and tailored** to your domain.
+**Retrieval-Augmented Fine-Tuning (RAFT)** solves this by combining fine-tuning with retrieval, letting the model not only access the right context but also *learn from retrieval-enriched data*. This results in models that are more **fact-grounded, accurate, and tailored** to your domain.
 
 In this lesson, you will learn how to generate datasets for **Retrieval-Augmented Fine-Tuning (RAFT)**. RAFT extends Retrieval-Augmented Generation (RAG) by not only pulling relevant external knowledge into model responses, but also **fine-tuning models on retrieval-enriched data** to improve accuracy, factual grounding, and domain specialization.  
 
