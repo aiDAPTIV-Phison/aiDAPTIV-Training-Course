@@ -1,16 +1,12 @@
 # Vision Function Calling
 
-|![ Sketchnote Placeholder ](../../sketchnotes/vision-function-calling.png)|
-|:---:|
-| Vision Function Calling - _Sketchnote_ |
-
 In this lesson you will learn how modern **Vision-Language Models (VLMs)** can not only describe images but also **call functions** based on what they see. By combining **OCR-like perception** with structured reasoning and APIs, we can unlock powerful multimodal workflows.
+
+[![Intro Video](images/video-prob-and-stats.png)](https://youtu.be/Z5Zy85g4Yjw)
 
 We will demonstrate this using the **Qwen2.5-VL-3B-Instruct** model and two real-world examples:
 1. Simulating a customer service assistant to handle delivery exception screenshots.  
 2. Analyzing an organizational chart to extract employee information into structured data.  
-
-## [Pre-lecture quiz](#)
 
 ---
 
