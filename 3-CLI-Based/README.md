@@ -1,8 +1,5 @@
 # CLI-Based Lessons
 
-![terminal love](../assets/cli-lessons.jpg)  
-> Photo by [Unsplash Author](https://unsplash.com) on [Unsplash](https://unsplash.com)
-
 In these lessons, you will learn how to build and experiment with **command-line AI workflows**.  
 Each project demonstrates a different aspect of working with Large Language Models (LLMs) using structured prompts, fine-tuning, and retrieval techniques — all from the CLI.  
 
