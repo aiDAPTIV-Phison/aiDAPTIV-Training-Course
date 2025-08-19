@@ -67,19 +67,6 @@ This workflow demonstrates how **visual documents** can be converted into machin
 
 ---
 
-## 🚀 Challenge
-
-Try extending this notebook by:
-- Testing with your own delivery screenshots.  
-- Passing in other types of documents like invoices, receipts, or ID cards.  
-- Writing a custom function schema and having the model call it.  
-
----
-
-## [Post-lecture quiz](#)
-
----
-
 ## Review & Self Study
 
 This lesson showed how to combine **OCR, image understanding, and function calling** into a single workflow.  
