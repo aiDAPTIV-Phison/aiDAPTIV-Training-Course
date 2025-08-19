@@ -3,7 +3,7 @@
 In this lesson you will learn how to prepare and validate datasets for **instruction fine-tuning**, a process that transforms a pre-trained large language model (LLM) into a **chat model** that can reliably follow user instructions. By carefully curating and structuring training data, we can make LLMs more responsive, accurate, and useful in real-world applications.  
 
 [![Instruction Fine-Tuning Video](https://github.com/atp224/aiDAPTIV-Training-Course/blob/86640a25f94fd48581ee9ff78b3aaac3dc37a044/assets/instruction_fine-tuning.png)](https://youtu.be/8wtCFEkSP80)
-
+▶️ *Click the image above to watch the video on YouTube.*
 ---
 
 ## What is Instruction Fine-Tuning?
