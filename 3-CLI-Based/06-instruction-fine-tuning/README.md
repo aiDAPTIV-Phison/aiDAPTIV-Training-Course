@@ -1,6 +1,10 @@
 # Instruction Fine-Tuning
 
-In this lesson you will learn how to prepare and validate datasets for **instruction fine-tuning**, a process that transforms a pre-trained large language model (LLM) into a **chat model** that can reliably follow user instructions. By carefully curating and structuring training data, we can make LLMs more responsive, accurate, and useful in real-world applications.  
+**Why this matters:**  
+Pre-trained LLMs are powerful, but they often struggle to follow instructions reliably. Instruction fine-tuning bridges that gap by teaching models to respond directly to human prompts. This makes them more **useful, accurate, and aligned** with real-world needs like customer support, chatbots, and task automation.  
+
+In this lesson you will learn how to prepare and validate datasets for instruction fine-tuning — the key step that transforms a general-purpose LLM into a **chat model that listens and responds the way you want.**  
+
 
 <p align="center">
   <a href="https://youtu.be/8wtCFEkSP80">
@@ -84,7 +88,7 @@ This lesson showed how to:
 - Visualize dataset statistics before training.  
 
 For further study:  
-- [Comprehensive Introduction to Instruction Tuning](https://youssefh.substack.com/p/a-comprehensive-introduction-to-instruction)  
+- [What is instruction tuning?](https://www.ibm.com/think/topics/instruction-tuning)  
 - [OpenAI Fine-tuning Guide](https://platform.openai.com/docs/guides/fine-tuning)  
 - [Hugging Face Fine-tuning Resources](https://huggingface.co/docs/transformers/training)  
 
