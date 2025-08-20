@@ -97,10 +97,11 @@ With aiDAPTIV+ Pro Suite, you can complete the **entire fine-tuning workflow** w
 3. Monitor progress and validate improvements  
 4. Chat directly with your fine-tuned model  
 
-This **no-code workflow** makes advanced model customization accessible to anyone — from researchers to enterprise teams.  
+This **no-code workflow** makes advanced model customization accessible to anyone - from researchers to enterprise teams.  
 
 ---
 
 ## ℹ️ Learn More
 - 📖 [Phison Blog – aiDAPTIV+ Articles](https://phisonblog.com/category/ai)  
 - 💼 [Follow us on LinkedIn](https://www.linkedin.com/company/phison-electronics) 
+
