@@ -33,7 +33,7 @@ Whether you’re a developer, researcher, or student, you’ll gain practical sk
 
 ### Setup
 ```bash
-git clone https://github.com/atp224/aiDAPTIV-Training-Course
+git clone https://github.com/aiDAPTIV-Phison/aiDAPTIV-Training-Course
 cd aiDAPTIV-Training-Course
 ```
 
