@@ -1,6 +1,6 @@
 # aiDAPTIV+ Pro Suite - GUI Fine-Tuning Walkthrough
 
-The **aiDAPTIV+ Pro Suite** is a no-code, full-stack workflow platform that makes it easy to manage every stage of your local LLM projects — from dataset preparation to deployment.  
+The **aiDAPTIV+ Pro Suite** is a no-code, full-stack workflow platform that makes it easy to manage every stage of your local LLM projects from dataset preparation to deployment.  
 
 This lesson shows you how to:
 - Open and navigate the Pro Suite GUI  
@@ -8,7 +8,7 @@ This lesson shows you how to:
 - Fine-tune a model with the generated dataset  
 - Run **inference** on your fine-tuned model  
 
-All of this is done entirely through the **Pro Suite GUI** — no code required.  
+All of this is done entirely through the **Pro Suite GUI** no code required.  
 
 ---
 
@@ -104,4 +104,5 @@ This **no-code workflow** makes advanced model customization accessible to anyon
 ## ℹ️ Learn More
 - 📖 [Phison Blog – aiDAPTIV+ Articles](https://phisonblog.com/category/ai)  
 - 💼 [Follow us on LinkedIn](https://www.linkedin.com/company/phison-electronics) 
+
 
