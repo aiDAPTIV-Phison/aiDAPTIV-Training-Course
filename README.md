@@ -48,7 +48,7 @@ cd aiDAPTIV-Training-Course
 | 03 | Fine-Tuning via Pro Suite GUI | [GUI Based](2-GUI-Based/README.md) | Use the aiDAPTIV+ Pro Suite GUI to fine-tune a custom LLM using the Phison Employee Handbook dataset. | [lesson](2-GUI-Based/03-fine-tune/README.md) |
 | 04 | Instruction Fine-Tuning | [CLI Based](3-CLI-Based/README.md) | Learn how to fine-tune a model on instruction–response datasets for more structured outputs. | [lesson](3-CLI-Based/04-instruction-fine-tuning/README.md) [video](https://youtu.be/470m1BNNEyY) |
 | 05 | Speaking Style Model | [CLI Based](3-CLI-Based/README.md) | Fine-tune an LLM to adapt its output style for different tones, audiences, and communication needs. | [lesson](3-CLI-Based/05-speaking-style-model/README.md) |
-| 06 | RAFT Dataset Generation | [CLI Based](3-CLI-Based/README.md) | Generate retrieval-augmented datasets to improve factual grounding and domain specialization. | [lesson](3-CLI-Based/06-RAFT-Dataset-Generation/README.md) [video](https://youtu.be/-H36KQR_9KM) |
+| 06 | RAFT Dataset Generation | [CLI Based](3-CLI-Based/README.md) | Generate retrieval-augmented datasets to improve factual grounding and domain specialization. | [lesson](3-CLI-Based/06-RAFT-Dataset-Generation/README.md) [video](https://youtu.be/Q3e-Q05ccJ8) |
 | 07 | LLM as a Judge | [CLI Based](3-CLI-Based/README.md) | Use LLMs to evaluate and grade outputs from other models with rubrics. | [lesson](3-CLI-Based/07-LLM-as-a-judge/README.md) [video](https://youtu.be/YnrOuSRJum8) |
 | 08 | Vision Function Calling | [CLI Based](3-CLI-Based/08-vision-function-calling-model/README.md) | Explore how Vision-Language Models (VLMs) can analyze images and trigger structured functions. | [lesson](3-CLI-Based/08-vision-function-calling-model/README.md) |
 
