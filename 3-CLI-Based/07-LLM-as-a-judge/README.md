@@ -7,7 +7,7 @@ Using **LLMs as judges** solves this by applying reasoning and context awareness
 In this lesson, you’ll learn how to use **LLMs as evaluators** to detect hallucinations in model outputs. Instead of relying on string similarity metrics, LLM-as-a-Judge leverages reasoning to score responses more accurately.  
 
 <p align="center">
-  <a href="" target="_blank">
+  <a href="https://youtu.be/YnrOuSRJum8" target="_blank">
     <img src="https://github.com/aiDAPTIV-Phison/aiDAPTIV-Training-Course/blob/c14bbe837e5c05ce39c0b0e10d182592ef53bf35/assets/LLM_as_a_Judge.png" alt="LLM-as-a-Judge Video" width="600"/>
   </a>  
   <br>
