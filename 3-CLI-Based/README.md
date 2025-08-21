@@ -1,7 +1,7 @@
 # CLI-Based Lessons
 
 In these lessons, you will learn how to build and experiment with **command-line AI workflows**.  
-Each project demonstrates a different aspect of working with Large Language Models (LLMs) using structured prompts, fine-tuning, and retrieval techniques — all from the CLI.  
+Each project demonstrates a different aspect of working with Large Language Models (LLMs) using structured prompts, fine-tuning, and retrieval techniques, all from the CLI.  
 
 These lessons build progressively from speaking style models, to multimodal function calling, instruction fine-tuning, evaluation, and retrieval-augmented dataset generation.
 
