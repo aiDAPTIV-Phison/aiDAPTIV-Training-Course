@@ -4,7 +4,7 @@ The **Introduction** section gives you the context and setup you need before sta
 
 ### Contents  
 
-1. [Welcome](https://github.com/aiDAPTIV-Phison/aiDAPTIV-Training-Course/tree/main/1-Introduction)  
+1. [Welcome](https://github.com/aiDAPTIV-Phison/aiDAPTIV-Training-Course/tree/main/1-Introduction/01-welcome)  
    Overview of the aiDAPTIV+ training course and what you’ll learn.  
 
 2. [Accessing the AI Training PC](https://github.com/aiDAPTIV-Phison/aiDAPTIV-Training-Course/tree/main/1-Introduction/02-accessing-the-AI-Training-PC)  
