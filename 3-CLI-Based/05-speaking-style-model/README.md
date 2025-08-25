@@ -4,7 +4,7 @@
 Large Language Models (LLMs) are powerful, but they often sound *generic*. By fine-tuning on specific text samples, we can shape a model’s **style, tone, and personality**. In this lesson, you’ll fine-tune an LLM so it responds in the **voice of a chosen celebrity**, demonstrating how style transfer works in practice.
 
 <p align="center">
-  <a href="" target="_blank">
+  <a href="https://youtu.be/bvzh1CztTgU" target="_blank">
     <img src="https://github.com/aiDAPTIV-Phison/aiDAPTIV-Training-Course/blob/7e83cefbe30b7c555b430e54c3092b23b760fd1c/assets/Speaking_Style_Model.png" width="600"/>
   </a>  
   <br>
