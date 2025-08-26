@@ -31,7 +31,7 @@ Whether you’re a developer, researcher, or student, you’ll gain practical sk
 ## 🚀 Getting Started
 
 ### Prerequisites
-- [Remote access to a provided AI Trainig PC(AITPC)](https://docs.google.com/forms/d/e/1FAIpQLSd1KLGisv-xU9KIc8ZPQBIBEfbS1VCW16qxCCXe-5_ZGfcgxg/viewform) **or** [your own system with aiDAPTIV+ installed](https://github.com/atp224/aiDAPTIVTestPage/tree/main/Page_Sections/Installation) 
+- [Remote access to a provided AI Training PC(AITPC)](https://docs.google.com/forms/d/e/1FAIpQLSd1KLGisv-xU9KIc8ZPQBIBEfbS1VCW16qxCCXe-5_ZGfcgxg/viewform) **or** [your own system with aiDAPTIV+ installed](https://github.com/atp224/aiDAPTIVTestPage/tree/main/Page_Sections/Installation) 
 
 ### Setup
 ```bash
