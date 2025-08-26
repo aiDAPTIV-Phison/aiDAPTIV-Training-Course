@@ -21,6 +21,9 @@ This hands-on curriculum is designed to teach you how to:
 - Use both GUI and CLI workflows for training and inference.
 - Apply fine-tuning to real-world datasets such as company handbooks or public figure transcripts.
 
+The course includes about **2 hours of recorded, follow-along video content**, but the full experience takes around **12 hours to complete**.  
+Most of that time is spent running fine-tuning jobs, so you don’t need to stay at your computer while training is in progress.  
+
 Whether you’re a developer, researcher, or student, you’ll gain practical skills to run on-prem AI cost-efficiently and securely.
 
 ---
