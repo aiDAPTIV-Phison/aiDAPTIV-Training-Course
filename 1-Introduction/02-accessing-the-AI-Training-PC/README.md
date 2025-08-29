@@ -49,7 +49,7 @@ For Windows users, you’ll need to update the host file to map the jump server 
 
 Once connected to the VPN, you can log into the **jump server**:  
 
-👉 [phisongenai.phison.com](phisongenai.phison.com)  
+👉 [phisongenai.phison.com](https://phisongenai.phison.com)  
 (*Note: This link only works when you are connected to the VPN.*)  
 
 ---
