@@ -1,4 +1,4 @@
-# Vision Function Calling
+# Work In Progress - Vision Function Calling
 
 **Why this matters:**  
 Traditional Vision-Language Models (VLMs) can describe what they see, but they usually stop at captions or Q&A. Real-world applications often need **action**, not just description, like extracting numbers from receipts, scheduling from a whiteboard snapshot, or triggering workflows from diagrams.  
