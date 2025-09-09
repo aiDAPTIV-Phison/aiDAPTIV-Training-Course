@@ -11,7 +11,7 @@ In this lesson, you will learn how modern **Vision-Language Models (VLMs)** can 
     <img src="https://github.com/aiDAPTIV-Phison/aiDAPTIV-Training-Course/blob/f29aafa51b0ae618e3bfb57fed02d38d8b3cf384/assets/Vision_Function_Calling.png" alt="Vision Function Calling Video" width="600"/>
   </a>  
   <br>
-  ▶️ *Click the image above to watch the video on YouTube.*
+  ▶️ *This Video Is Currently being Recorded*
 </p>
 
 ---
