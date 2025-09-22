@@ -54,5 +54,9 @@ Whether you’re a developer, researcher, or student, you’ll gain practical sk
 ---
 
 ## 🤝 Contributing
-Feedback and improvements are welcome. Please open an issue or submit a pull request if you find bugs or have suggestions.
+
+We’d love to hear your feedback on the aiDAPTIV+ Training Course!  
+
+Please use our feedback form to share your thoughts, suggestions, or issues:  
+👉 [aiDAPTIV+ Training Course Feedback Form](https://forms.gle/bsWpNLNYvNTVdNSF6) 
 
