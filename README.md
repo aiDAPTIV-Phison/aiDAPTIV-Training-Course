@@ -31,7 +31,21 @@ Whether you’re a developer, researcher, or student, you’ll gain practical sk
 ## 🚀 Getting Started
 
 ### Prerequisites
-- [Remote access to a provided AI Training PC  (AITPC)](https://docs.google.com/forms/d/e/1FAIpQLSd1KLGisv-xU9KIc8ZPQBIBEfbS1VCW16qxCCXe-5_ZGfcgxg/viewform) **or** [your own system with aiDAPTIV+ installed](https://github.com/aiDAPTIV-Phison/aiDAPTIV/tree/56b10d68cb0f80163a799a1c1008554f9010dc7b/Page_Sections/Installation) 
+
+⚠️ **Step 1: Reserve Your AI Training PC (AITPC)**  
+To take this course, you’ll need access to an AI Training PC.  
+👉 [**Click here to request remote access**](https://docs.google.com/forms/d/e/1FAIpQLSd1KLGisv-xU9KIc8ZPQBIBEfbS1VCW16qxCCXe-5_ZGfcgxg/viewform)  
+
+*(Your request will be reviewed, and credentials will be sent to you once approved.)*
+
+---
+
+💻 **Step 2: Alternatively, use your own system**  
+If you already have aiDAPTIV+ installed on your own hardware, you can skip the reservation form.  
+👉 [**Installation instructions for aiDAPTIV+**](https://github.com/aiDAPTIV-Phison/aiDAPTIV/tree/56b10d68cb0f80163a799a1c1008554f9010dc7b/Page_Sections/Installation)  
+
+✅ Once you have either remote or local access, you’re ready to begin the lessons.
+
 
 ---
 
