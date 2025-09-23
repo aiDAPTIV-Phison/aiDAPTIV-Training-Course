@@ -38,10 +38,8 @@ To take this course, you’ll need access to an AI Training PC.
 
 *(Your request will be reviewed, and credentials will be sent to you once approved.)*
 
----
-
 💻 **Step 2: Alternatively, use your own system**  
-If you already have aiDAPTIV+ installed on your own hardware, you can skip the reservation form.  
+If you already have an aiDAPTIV+ installed on your own hardware, you can skip the reservation form.  
 👉 [**Installation instructions for aiDAPTIV+**](https://github.com/aiDAPTIV-Phison/aiDAPTIV/tree/56b10d68cb0f80163a799a1c1008554f9010dc7b/Page_Sections/Installation)  
 
 ✅ Once you have either remote or local access, you’re ready to begin the lessons.
