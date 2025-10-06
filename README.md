@@ -58,7 +58,7 @@ If you already have an aiDAPTIV+ installed on your own hardware, you can skip th
 | 05 | Speaking Style Model | [CLI Based](3-CLI-Based/README.md) | Fine-tune an LLM to adapt its output style for different tones, audiences, and communication needs. | [lesson](3-CLI-Based/05-speaking-style-model/README.md) [video](https://youtu.be/zPZvIdnCL7k) |
 | 06 | RAFT Dataset Generation | [CLI Based](3-CLI-Based/README.md) | Generate retrieval-augmented datasets to improve factual grounding and domain specialization. | [lesson](3-CLI-Based/06-RAFT-Dataset-Generation/README.md) [video](https://youtu.be/sPIwfBwXPlQ) |
 | 07 | LLM as a Judge | [CLI Based](3-CLI-Based/README.md) | Use LLMs to evaluate and grade outputs from other models with rubrics. | [lesson](3-CLI-Based/07-LLM-as-a-judge/README.md) [video](https://youtu.be/JQ6QCsclcZw) |
-| 08 | Vision Function Calling | [CLI Based](3-CLI-Based/README.md) | Explore how Vision-Language Models (VLMs) can analyze images and trigger structured functions. | [lesson](3-CLI-Based/08-vision-function-calling-model/README.md) [video](https://youtu.be/UFYZY9aUPvk) |
+| 08 | Vision Function Calling | [CLI Based](3-CLI-Based/README.md) | Explore how Vision-Language Models (VLMs) can analyze images and trigger structured functions. | [lesson](3-CLI-Based/08-vision-function-calling-model/README.md) [video](https://youtu.be/mHzUIe_qyAo) |
 
 
 

@@ -7,7 +7,7 @@ By teaching VLMs to **call functions** based on visual input, we bridge percepti
 In this lesson, you will learn how modern **Vision-Language Models (VLMs)** can not only describe images but also **call functions** based on what they see. By combining **OCR-like perception** with structured reasoning and APIs, we can unlock powerful multimodal workflows.
 
 <p align="center">
-  <a href="https://youtu.be/UFYZY9aUPvk" target="_blank">
+  <a href="https://youtu.be/mHzUIe_qyAo" target="_blank">
     <img src="https://github.com/aiDAPTIV-Phison/aiDAPTIV-Training-Course/blob/e60ff9d6c3597c4d2f8de5ea3f2bef1f96b82fdd/assets/Vision_Function_Calling.png" alt="Vision Function Calling Video" width="600"/>
   </a>  
   <br>
