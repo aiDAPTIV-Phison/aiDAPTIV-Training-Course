@@ -5,7 +5,7 @@ You’ll need to complete these steps before you can run the hands-on labs in th
 
 <p align="center">
   <a href="https://youtu.be/Y3x4cn6vZvQ">
-    <img src="https://github.com/aiDAPTIV-Phison/aiDAPTIV-Training-Course/blob/e60ff9d6c3597c4d2f8de5ea3f2bef1f96b82fdd/assets/Remote_Access_Guide.png" width="600" alt="Remote Access Guide">
+    <img src="https://github.com/aiDAPTIV-Phison/aiDAPTIV-Training-Course/blob/a129d0f042437405c54d6a751843eefa4715b824/assets/Remote_Access_Guide.png" width="600" alt="Remote Access Guide">
   </a>  
   <br>
   ▶️ <em>Click the image above to watch the video on YouTube.</em>

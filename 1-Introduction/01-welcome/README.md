@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://youtu.be/QIQLC7_56xo">
-    <img src="https://github.com/aiDAPTIV-Phison/aiDAPTIV-Training-Course/blob/e60ff9d6c3597c4d2f8de5ea3f2bef1f96b82fdd/assets/Welcome.png" width="600" alt="Welcome">
+    <img src="https://github.com/aiDAPTIV-Phison/aiDAPTIV-Training-Course/blob/a129d0f042437405c54d6a751843eefa4715b824/assets/Welcome.png" width="600" alt="Welcome">
   </a>  
   <br>
   ▶️ <em>Click the image above to watch the video on YouTube.</em>

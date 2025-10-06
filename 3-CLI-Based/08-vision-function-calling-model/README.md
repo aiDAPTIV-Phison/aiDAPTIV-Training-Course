@@ -8,7 +8,7 @@ In this lesson, you will learn how modern **Vision-Language Models (VLMs)** can 
 
 <p align="center">
   <a href="https://youtu.be/mHzUIe_qyAo" target="_blank">
-    <img src="https://github.com/aiDAPTIV-Phison/aiDAPTIV-Training-Course/blob/e60ff9d6c3597c4d2f8de5ea3f2bef1f96b82fdd/assets/Vision_Function_Calling.png" alt="Vision Function Calling Video" width="600"/>
+    <img src="https://github.com/aiDAPTIV-Phison/aiDAPTIV-Training-Course/blob/a129d0f042437405c54d6a751843eefa4715b824/assets/Vision_Function_Calling.png" alt="Vision Function Calling Video" width="600"/>
   </a>  
   <br>
   ▶️ *Click the image above to watch the video on YouTube.*

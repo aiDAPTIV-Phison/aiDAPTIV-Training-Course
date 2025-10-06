@@ -5,7 +5,7 @@ Large Language Models (LLMs) are powerful, but they often sound *generic*. By fi
 
 <p align="center">
   <a href="https://youtu.be/zPZvIdnCL7k" target="_blank">
-    <img src="https://github.com/aiDAPTIV-Phison/aiDAPTIV-Training-Course/blob/e60ff9d6c3597c4d2f8de5ea3f2bef1f96b82fdd/assets/Speaking_Style_Model.png" width="600"/>
+    <img src="https://github.com/aiDAPTIV-Phison/aiDAPTIV-Training-Course/blob/a129d0f042437405c54d6a751843eefa4715b824/assets/Speaking_Style_Model.png" width="600"/>
   </a>  
   <br>
   ▶️ *Click the image above to watch the video on YouTube.*

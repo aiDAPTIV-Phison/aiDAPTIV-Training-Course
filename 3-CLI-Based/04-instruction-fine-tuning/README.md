@@ -8,7 +8,7 @@ In this lesson you will learn how to prepare and validate datasets for instructi
 
 <p align="center">
   <a href="https://youtu.be/qs5LIiH211o">
-    <img src="https://github.com/aiDAPTIV-Phison/aiDAPTIV-Training-Course/blob/e60ff9d6c3597c4d2f8de5ea3f2bef1f96b82fdd/assets/instruction_fine-tuning.png" width="600" alt="Instruction Fine-Tuning Video">
+    <img src="https://github.com/aiDAPTIV-Phison/aiDAPTIV-Training-Course/blob/a129d0f042437405c54d6a751843eefa4715b824/assets/instruction_fine-tuning.png" width="600" alt="Instruction Fine-Tuning Video">
   </a>  
   <br>
   ▶️ <em>Click the image above to watch the video on YouTube.</em>

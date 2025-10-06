@@ -8,7 +8,7 @@ In this lesson, you’ll learn how to use **LLMs as evaluators** to detect hallu
 
 <p align="center">
   <a href="https://youtu.be/JQ6QCsclcZw" target="_blank">
-    <img src="https://github.com/aiDAPTIV-Phison/aiDAPTIV-Training-Course/blob/e60ff9d6c3597c4d2f8de5ea3f2bef1f96b82fdd/assets/LLM_as_a_Judge.png" alt="LLM-as-a-Judge Video" width="600"/>
+    <img src="https://github.com/aiDAPTIV-Phison/aiDAPTIV-Training-Course/blob/a129d0f042437405c54d6a751843eefa4715b824/assets/LLM_as_a_Judge.png" alt="LLM-as-a-Judge Video" width="600"/>
   </a>  
   <br>
   ▶️ *Click the image above to watch the video on YouTube.*
