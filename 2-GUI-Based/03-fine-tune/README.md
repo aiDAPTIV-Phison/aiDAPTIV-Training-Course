@@ -11,7 +11,7 @@ This lesson shows you how to:
 All of this is done entirely through the **Pro Suite GUI** no code required.  
 
 <p align="center">
-  <a href="https://youtu.be/T4G5ccFB6zY">
+  <a href="https://youtu.be/kqxzJa7f0H0">
     <img src="https://github.com/aiDAPTIV-Phison/aiDAPTIV-Training-Course/blob/e60ff9d6c3597c4d2f8de5ea3f2bef1f96b82fdd/assets/Pro_Suite_Guide.png" width="600" alt="Pro Suite Fine-Tuning Guide">
   </a>  
   <br>
