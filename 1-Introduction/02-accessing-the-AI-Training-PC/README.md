@@ -4,7 +4,7 @@ In this lesson, you’ll learn how to set up VPN access and remotely connect to 
 You’ll need to complete these steps before you can run the hands-on labs in this course.  
 
 <p align="center">
-  <a href="https://youtu.be/fxRREegFnew">
+  <a href="https://youtu.be/Y3x4cn6vZvQ">
     <img src="https://github.com/aiDAPTIV-Phison/aiDAPTIV-Training-Course/blob/e60ff9d6c3597c4d2f8de5ea3f2bef1f96b82fdd/assets/Remote_Access_Guide.png" width="600" alt="Remote Access Guide">
   </a>  
   <br>
