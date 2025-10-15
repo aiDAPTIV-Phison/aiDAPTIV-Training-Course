@@ -1,7 +1,7 @@
 # Introduction 
 
 <p align="center">
-  <a href="https://youtu.be/QIQLC7_56xo">
+  <a href="https://youtu.be/7-E68VRD0UE?si=ymAvfDT_I4x-K0TO">
     <img src="https://github.com/aiDAPTIV-Phison/aiDAPTIV-Training-Course/blob/a129d0f042437405c54d6a751843eefa4715b824/assets/Welcome.png" width="600" alt="Welcome">
   </a>  
   <br>
