@@ -11,7 +11,7 @@ This lesson shows you how to:
 All of this is done entirely through the **Pro Suite GUI** no code required.  
 
 <p align="center">
-  <a href="https://youtu.be/kqxzJa7f0H0">
+  <a href="https://youtu.be/tnJkRewYOEQ?si=0XHvcx8c0pig6mVg">
     <img src="https://github.com/aiDAPTIV-Phison/aiDAPTIV-Training-Course/blob/a129d0f042437405c54d6a751843eefa4715b824/assets/Pro_Suite_Guide.png" width="600" alt="Pro Suite Fine-Tuning Guide">
   </a>  
   <br>
@@ -112,6 +112,7 @@ This **no-code workflow** makes advanced model customization accessible to anyon
 ## ℹ️ Learn More
 - 📖 [Phison Blog – aiDAPTIV+ Articles](https://phisonblog.com/category/ai)  
 - 💼 [Follow us on LinkedIn](https://www.linkedin.com/company/phison-electronics) 
+
 
 
 
