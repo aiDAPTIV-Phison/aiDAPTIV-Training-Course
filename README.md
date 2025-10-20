@@ -34,7 +34,7 @@ Whether you’re a developer, researcher, or student, you’ll gain practical sk
 
 ⚠️ **Step 1: Reserve Your AI Training PC (AITPC)**  
 To take this course, you’ll need access to an AI Training PC.  
-👉 [**Click here to request remote access**](https://docs.google.com/forms/d/e/1FAIpQLSd1KLGisv-xU9KIc8ZPQBIBEfbS1VCW16qxCCXe-5_ZGfcgxg/viewform)  
+👉 [**Click here to request remote access**](https://info.phisonblog.com/aidaptiv-training-course-application)  
 
 *(Your request will be reviewed, and credentials will be sent to you once approved.)*
 
@@ -70,5 +70,5 @@ If you already have an aiDAPTIV+ installed on your own hardware, you can skip th
 We’d love to hear your feedback on the aiDAPTIV+ Training Course!  
 
 Please use our feedback form to share your thoughts, suggestions, or issues:  
-👉 [aiDAPTIV+ Training Course Feedback Form](https://forms.gle/bsWpNLNYvNTVdNSF6) 
+👉 [aiDAPTIV+ Training Course Feedback Form](https://info.phisonblog.com/aidaptiv-training-course-feedback) 
 
