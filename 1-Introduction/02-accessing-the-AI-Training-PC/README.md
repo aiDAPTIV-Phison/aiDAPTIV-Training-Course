@@ -39,8 +39,11 @@ We use **CATO Networks VPN** for secure access.
 For Windows users, you’ll need to update the host file to map the jump server address.  
 
 1. Open the host file with admin privileges: C:\Windows\System32\drivers\etc\hosts
-2. Add this line at the bottom: 10.102.10.20 phisongenai.phison.com
-3. Save and close the file.  
+2. Add this line at the bottom:
+```bash
+10.102.10.20 phisongenai.phison.com
+```
+4. Save and close the file.  
 
 ### macOS / Linux
 For macOS and Linux users, the process is very similar.  
