@@ -51,8 +51,10 @@ For macOS and Linux users, the process is very similar.
 sudo nano /etc/hosts
 ```
 You’ll be prompted for your computer password.
+
 3. Add this line at the bottom: 10.102.10.20 phisongenai.phison.com
-4. Save and exit (Ctrl+O, Enter, Ctrl+X in nano).
+   
+5. Save and exit (Ctrl+O, Enter, Ctrl+X in nano).
 
 ---
 
