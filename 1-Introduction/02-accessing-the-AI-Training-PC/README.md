@@ -76,4 +76,4 @@ Once connected to the VPN, you can log into the **jump server**:
 ## ✅ You’re Ready
 
 You now have secure access to the Phison **AI Training PCs (AITPCs)**.  
-From here, you’ll be able to run datasets, fine-tuning jobs, and inference for the aiDAPTIV+ training course.
+From here, you’ll be able to run datasets, fine-tuning jobs, and inference for the aiDAPTIV training course.
