@@ -16,7 +16,7 @@
 In this lesson, you’ll:  
 - Meet your instructor, Aaron Pham (Developer Advocate at Phison).  
 - Get an overview of the course structure (GUI-based and CLI-based lessons).  
-- Learn what tools you’ll use: **Pro Suite GUI**, **Command Line Interface**, and the **AI Training PC (AITPC)**.  
+- Learn what tools you’ll use: **Pro Suite**, **Command Line Interface**, and the **AI Training PC (AITPC)**.  
 - Understand what you’ll gain: hands-on skills in dataset preparation, fine-tuning, inference, evaluation, and multimodal workflows.  
 
 ---
