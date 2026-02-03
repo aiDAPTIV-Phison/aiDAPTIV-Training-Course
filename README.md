@@ -3,14 +3,14 @@
 <a href="https://www.phison.com/en/aidaptiv-plus-ai-data-storage-solution"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/atp224/aiDAPTIV-Training-Course/blob/e7303bc3326fa84a07add8e6bc9ba384f3a53431/assets/dark_logo.png">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/atp224/aiDAPTIV-Training-Course/blob/e7303bc3326fa84a07add8e6bc9ba384f3a53431/assets/light_logo.png">
-    <img alt="aiDAPTIV+ logo" src="https://github.com/atp224/aiDAPTIVTestPage/blob/main/assets/aiDAPTIV_logo.jpg?raw=true" height="110" style="max-width: 100%;">
+    <img alt="aiDAPTIV logo" src="https://github.com/atp224/aiDAPTIVTestPage/blob/main/assets/aiDAPTIV_logo.jpg?raw=true" height="110" style="max-width: 100%;">
   </picture></a>
 
-# aiDAPTIV+ Training Course – Hands-On LLM Fine-Tuning
+# aiDAPTIV Training Course – Hands-On LLM Fine-Tuning
 
 </div>
 
-Learn how to fine-tune large language models (LLMs) locally using **aiDAPTIV+** with both the **Pro Suite Graphical User Interface** and the **Command Line Interface**. This repository contains all lesson materials, datasets, code examples, and project files to learn aiDAPTIV+.
+Learn how to fine-tune large language models (LLMs) locally using **aiDAPTIV technology** with both the **Pro Suite Graphical User Interface** and the **Command Line Interface**. This repository contains all lesson materials, datasets, code examples, and project files to learn aiDAPTIV.
 
 ---
 
@@ -39,8 +39,8 @@ To take this course, you’ll need access to an AI Training PC.
 *(Your request will be reviewed, and credentials will be sent to you once approved.)*
 
 💻 **Step 2: Alternatively, use your own system**  
-If you already have an aiDAPTIV+ installed on your own hardware, you can skip the reservation form.  
-👉 [**Installation instructions for aiDAPTIV+**](https://github.com/aiDAPTIV-Phison/aiDAPTIV/tree/56b10d68cb0f80163a799a1c1008554f9010dc7b/Page_Sections/Installation)  
+If you already have an aiDAPTIV installed on your own hardware, you can skip the reservation form.  
+👉 [**Installation instructions for aiDAPTIV**](https://github.com/aiDAPTIV-Phison/aiDAPTIV/tree/56b10d68cb0f80163a799a1c1008554f9010dc7b/Page_Sections/Installation)  
 
 ✅ Once you have either remote or local access, you’re ready to begin the lessons.
 
@@ -51,9 +51,9 @@ If you already have an aiDAPTIV+ installed on your own hardware, you can skip th
 
 | Lesson Number | Topic | Lesson Grouping | Learning Objectives | Linked Lesson |
 | :-----------: | :------------------------------: | :--------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------: |
-| 01 | Welcome & Introduction | [Introduction](1-Introduction/README.md) | Overview of the aiDAPTIV+ platform, course structure, and how to get started. | [lesson](1-Introduction/01-welcome/README.md) [video](https://youtu.be/7-E68VRD0UE?si=ymAvfDT_I4x-K0TO) |
+| 01 | Welcome & Introduction | [Introduction](1-Introduction/README.md) | Overview of the aiDAPTIV platform, course structure, and how to get started. | [lesson](1-Introduction/01-welcome/README.md) [video](https://youtu.be/7-E68VRD0UE?si=ymAvfDT_I4x-K0TO) |
 | 02 | Accessing the AI Training PC | [Introduction](1-Introduction/README.md) | Learn how to request, connect to, and work with the remote AITPC for course exercises. | [lesson](1-Introduction/02-accessing-the-AI-Training-PC/README.md) [video](https://youtu.be/VICkCMZxQMA?si=9tcK4BmYFFDfCHtZ) |
-| 03 | Fine-Tuning via Pro Suite GUI | [GUI Based](2-GUI-Based/README.md) | Use the aiDAPTIV+ Pro Suite GUI to fine-tune a custom LLM using the Phison Employee Handbook dataset. | [lesson](2-GUI-Based/03-fine-tune/README.md) [video](https://youtu.be/tnJkRewYOEQ?si=0XHvcx8c0pig6mVg) |
+| 03 | Fine-Tuning via Pro Suite GUI | [GUI Based](2-GUI-Based/README.md) | Use the aiDAPTIV Pro Suite GUI to fine-tune a custom LLM using the Phison Employee Handbook dataset. | [lesson](2-GUI-Based/03-fine-tune/README.md) [video](https://youtu.be/tnJkRewYOEQ?si=0XHvcx8c0pig6mVg) |
 | 04 | Instruction Fine-Tuning | [CLI Based](3-CLI-Based/README.md) | Learn how to fine-tune a model on instruction–response datasets for more structured outputs. | [lesson](3-CLI-Based/04-instruction-fine-tuning/README.md) [video](https://youtu.be/S8-JSpLtDRU?si=Xoe0J_NhntmzjqWE) |
 | 05 | Speaking Style Model | [CLI Based](3-CLI-Based/README.md) | Fine-tune an LLM to adapt its output style for different tones, audiences, and communication needs. | [lesson](3-CLI-Based/05-speaking-style-model/README.md) [video](https://youtu.be/biz5v0EnjrM?si=FsnDNr_yaThm7n2v) |
 | 06 | RAFT Dataset Generation | [CLI Based](3-CLI-Based/README.md) | Generate retrieval-augmented datasets to improve factual grounding and domain specialization. | [lesson](3-CLI-Based/06-RAFT-Dataset-Generation/README.md) [video](https://youtu.be/W8Lv4_sDuAI?si=tEGwvDIhHBsD1lnG) |
@@ -67,8 +67,8 @@ If you already have an aiDAPTIV+ installed on your own hardware, you can skip th
 
 ## 🤝 Contributing
 
-We’d love to hear your feedback on the aiDAPTIV+ Training Course!  
+We’d love to hear your feedback on the aiDAPTIV Training Course!  
 
 Please use our feedback form to share your thoughts, suggestions, or issues:  
-👉 [aiDAPTIV+ Training Course Feedback Form](https://info.phisonblog.com/aidaptiv-training-course-feedback) 
+👉 [aiDAPTIV Training Course Feedback Form](https://info.phisonblog.com/aidaptiv-training-course-feedback) 
 
