@@ -2,7 +2,7 @@
 
 <a href="https://www.phison.com/en/aidaptiv-plus-ai-data-storage-solution"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/Pascari-Phison_Stacked_Logo_CMYK_Blue_&_Orange_Dark.jpg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/Pascari-Phison_Stacked_Logo_CMYK_Blue_&_Orange_Light.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/Pascari-Phison_Stacked_Logo_CMYK_Blue_&_Orange_Dark.png">
     <img alt="aiDAPTIV logo" src="https://github.com/atp224/aiDAPTIVTestPage/blob/main/assets/aiDAPTIV_logo.jpg?raw=true" height="110" style="max-width: 100%;">
   </picture></a>
 
