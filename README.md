@@ -6,7 +6,7 @@
     <img alt="aiDAPTIV logo" src="https://github.com/atp224/aiDAPTIVTestPage/blob/main/assets/aiDAPTIV_logo.jpg?raw=true" height="110" style="max-width: 100%;">
   </picture></a>
 
-# aiDAPTIV Training Course – Hands-On LLM Fine-Tuning
+# Pascari aiDAPTIV Training Course – Hands-On LLM Fine-Tuning
 
 </div>
 
@@ -17,7 +17,7 @@ Learn how to fine-tune large language models (LLMs) locally using **aiDAPTIV tec
 ## 📚 About This Course
 This hands-on curriculum is designed to teach you how to:
 - Fine-tune LLMs on your own hardware or a provided remote AI Training PC (AITPC).
-- Optimize GPU VRAM usage with **aiDAPTIVCache**.
+- Optimize GPU VRAM usage with **aiDAPTIV cache memory**.
 - Use both GUI and CLI workflows for training and inference.
 - Apply fine-tuning to real-world datasets such as company handbooks or public figure transcripts.
 
