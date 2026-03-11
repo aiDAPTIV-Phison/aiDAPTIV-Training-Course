@@ -70,5 +70,5 @@ If you already have an aiDAPTIV installed on your own hardware, you can skip the
 We’d love to hear your feedback on the aiDAPTIV Training Course!  
 
 Please use our feedback form to share your thoughts, suggestions, or issues:  
-👉 [aiDAPTIV Training Course Feedback Form](https://info.phisonblog.com/aidaptiv-training-course-feedback) 
+👉 [aiDAPTIV Training Course Feedback Form](https://info.phisonenterprise.com/aidaptiv-training-course-feedback) 
 
